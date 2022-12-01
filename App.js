@@ -1,1 +1,1 @@
-console.log("Hello Mafe");
+console.log("Hello");
